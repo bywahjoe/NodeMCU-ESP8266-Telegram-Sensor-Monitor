@@ -4,9 +4,9 @@
 
 #define chatID 1028722393
 
-#define cahayaPIN D4
-#define hujanPIN D3
-#define DHTPIN D2
+#define cahayaPIN D7
+#define hujanPIN D6
+#define DHTPIN D5
 #define DHTTYPE DHT11
 
 DHT dht(DHTPIN, DHTTYPE);

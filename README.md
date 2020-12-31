@@ -2,6 +2,6 @@
 Sensor Monitor Send to Telegram
 
 **Dependencies**
-> Arduino JSON 5.13.4 or 5.13.4 <br>
+> Arduino JSON 5.13.4 or 5.13.5 <br>
 > CTBot Libraries Latest <br>
 > ESP8266 Board 2.5.2 <br>
